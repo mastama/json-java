@@ -1,1 +1,11 @@
-{"email":"sp.mastama@gmail.com","address":{"street":"jalanin aja dulu","city":"Depok","country":"Indonesia"},"firstName":"Singgih","lastName":"Pratama","age":27}
+{
+  "email": "sp.mastama@gmail.com",
+  "address": {
+    "street": "jalanin aja dulu",
+    "city": "Depok",
+    "country": "Indonesia"
+  },
+  "firstName": "Singgih",
+  "lastName": "Pratama",
+  "age": 27
+}

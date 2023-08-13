@@ -23,6 +23,7 @@ public class JsonObjectTest {
         );
 
         ObjectMapper objectMapper = new ObjectMapper();
+        //parsing
         String json = objectMapper.writeValueAsString(person);
         System.out.println(json);
     }
